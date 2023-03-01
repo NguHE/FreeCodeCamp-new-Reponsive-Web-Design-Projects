@@ -6,6 +6,6 @@ These projects are made for the freeCodeCamp Responsive Web Design Certification
 
 - Project 1: [Survey Form](https://codepen.io/NguHE/pen/jOvMYKY)
 - Project 2: [Tribute Page](https://codepen.io/NguHE/pen/wvEzQMO)
-- Project 3: Technical Documentation Page
+- Project 3: [Technical Documentation Page](https://codepen.io/NguHE/pen/PodpqjG)
 - Project 4: Product Landing Page
 - Project 5: Personal Portfolio Webpage
